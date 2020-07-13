@@ -1,0 +1,11 @@
+1. http://www.compton.edu/facultystaff/jmmartinez/docs/Math-150-Spring-2015/Stat-Ch3-Formulas.pdf
+
+2. Topics in Descriptive stats - http://courses.washington.edu/stats315/descstat.htm
+
+3. Standard Deviation - https://365datascience.com/normal-distribution/
+
+4. https://towardsdatascience.com/an-introduction-to-gradient-descent-c9cca5739307
+
+5. plots - https://towardsdatascience.com/violin-plots-explained-fb1d115e023d
+
+6. 
