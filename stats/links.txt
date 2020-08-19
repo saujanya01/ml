@@ -8,4 +8,6 @@
 
 5. plots - https://towardsdatascience.com/violin-plots-explained-fb1d115e023d
 
-6. 
+6. AUC-ROC curve - https://hackernoon.com/simple-guide-on-how-to-generate-roc-plot-for-keras-classifier-2ecc6c73115a
+
+7. AlexNet - https://engmrk.com/alexnet-implementation-using-keras/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com
